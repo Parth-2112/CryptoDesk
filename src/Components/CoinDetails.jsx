@@ -1,8 +1,11 @@
+import { Container } from '@chakra-ui/react'
 import React from 'react'
 
 const CoinDetails = () => {
   return (
-    <div>CoinDetails</div>
+    <Container>
+      
+    </Container>
   )
 }
 
